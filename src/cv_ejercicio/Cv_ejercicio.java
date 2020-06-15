@@ -9,6 +9,8 @@ public class Cv_ejercicio {
         
         System.out.println("versión 0");
         
+        System.out.println("desarrollador 2");
+        
     }
     
 }
